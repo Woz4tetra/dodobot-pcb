@@ -8985,12 +8985,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <approved hash="104,1,45.72,200.66,BATTERY,PWR,VBAT,,,"/>
 <approved hash="204,1,43.18,200.66,BATTERY,GNDBREAK,,,,"/>
 <approved hash="113,1,147.32,100.086,R9,,,,,"/>
-<approved hash="113,1,338.057,213.586,DISP,,,,,"/>
+<approved hash="113,1,338.057,213.556,DISP,,,,,"/>
 <approved hash="113,1,142.725,41.91,D2,,,,,"/>
 <approved hash="113,1,155.425,41.91,D3,,,,,"/>
-<approved hash="113,1,114.537,54.8361,IR,,,,,"/>
+<approved hash="113,1,114.537,54.8056,IR,,,,,"/>
 <approved hash="113,1,44.4246,199.706,BATTERY,,,,,"/>
-<approved hash="113,1,257.746,174.216,JETSON,,,,,"/>
+<approved hash="113,1,257.746,174.186,JETSON,,,,,"/>
 </errors>
 </schematic>
 </drawing>
